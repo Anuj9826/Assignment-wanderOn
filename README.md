@@ -1,3 +1,7 @@
+Assignment is deploy on the vercel
+
+Application link :- https://wanderonfrontend.vercel.app/login
+
 Please make the .env in the root directory code in the below
 
 ### ENV
